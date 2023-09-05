@@ -1,0 +1,36 @@
+public_domain
+SQLLite,httpd
+
+MIT_X11
+Bitcoin,Symphony,Cake PHP
+
+BSD_Academic
+BSD Unix,FreeBSD,SciPy
+
+GPL
+Linux kernel,GCC compilers,MySQL,Perl
+
+EULA
+
+FREEWARE 
+Opera 
+
+SHAREWARE 
+Winzip 
+
+COMMERCIAL 
+Microsoft.NET
+
+EPL_CDDL_MPL
+Eclipse,OpenSolaris
+
+APACHE
+Android,Twitter
+
+LGPL
+OpenVRML,Ubuntu Libart
+
+ARTISTIC
+Perl,Blender
+
+
